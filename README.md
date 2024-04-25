@@ -3,7 +3,7 @@
 <br />
 <p align="center">
 
-[![View on Youtube](http://img.youtube.com/vi/W3zMJxCUJAA/0.jpg)](https://youtu.be/W3zMJxCUJAA)
+[![View on Youtube](http://img.youtube.com/vi/W3zMJxCUJAA/0.jpg)]
 
 <!-- TABLE OF CONTENTS -->
 
