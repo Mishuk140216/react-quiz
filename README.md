@@ -3,6 +3,7 @@
 <br />
 <p align="center">
 
+[![View on Youtube](http://img.youtube.com/vi/W3zMJxCUJAA/0.jpg)](https://youtu.be/W3zMJxCUJAA)
 
 <!-- TABLE OF CONTENTS -->
 
@@ -43,14 +44,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Contact
 
-<!-- Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
+Md Moksedul Islam - [moksedulislammishuk@gmail.com](mailto:moksedulislammishuk@gmail.com)
 
-Project Link: [https://github.com/learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)
+<!-- Project Link: [https://github.com/learnwithsumit/react-quiz](https://github.com/learnwithsumit/react-quiz)
 
 Youtube Video Link: [https://lwsbd.link/rquiz](https://lwsbd.link/rquiz)
 
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit) -->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
 
