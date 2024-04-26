@@ -1,12 +1,12 @@
 import _ from "lodash";
-import { useHistory, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import useAnswers from "../../hooks/useAnswers";
 import Analysis from "../Analysis";
 import Summary from "../Summary";
 
 export default function Result() {
   const { id } = useParams();
-  const { location } = useHistory();
+  const { location } = useNavigate();
   const { state } = location;
   const { qna } = state;
 
